@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@archway/valet": "^0.23.0"
+  }
+}
